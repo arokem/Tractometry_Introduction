@@ -1,5 +1,7 @@
 # Introduction to tractometry data analysis
 This notebook assumes proficiency in python, numpy, pandas, and scikit-learn. We recommend looking up tutorials for these tools if you are unfamiliar with any of them, such as [Neuroimaging and Data Science](https://neuroimaging-data-science.org/root.html).
+Chapters 2, 3, 5 and 6 of this book are particularly useful if you do not have
+familiarity with git or python.
 
 The provided notebook has the following python dependencies:
 
